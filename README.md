@@ -12,4 +12,12 @@ An overview of my ideal JAM stack
 - CMS powered (Strapi)
 - Plausible analytics
 
+## Infrastructure
+
+- AWS
+- IaC (CloudFormation)
+- S3
+- CloudFront
+- ECS for server apps?
+
 I might or might not script this up...
